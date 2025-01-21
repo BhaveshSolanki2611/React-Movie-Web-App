@@ -1,5 +1,5 @@
-🎬 React Movie Web App
-A sleek and modern movie web application built with React.js and Vite, designed to fetch and display movie details dynamically. This project provides an intuitive UI to search, explore, and view movie details with ease.
+🎬 React Movie Web App : 
+  A sleek and modern movie web application built with React.js and Vite, designed to fetch and display movie details dynamically. This project provides an intuitive UI to search, explore, and view movie details with ease.
 
 
 🚀 Features
